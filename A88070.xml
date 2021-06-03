@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Levellers remonstrance, sent in a letter to his excellency the Lord Gen: Cromwel: concerning the government of this commonwealth, his wearing of the crown of honour, and preservation of the lawes, liberties, and priviledges thereof. Together with their propositions and desires, in the name of all the commoners of England; and a strange prophesie, fore-telling the great and wonderfull things that will befall the rulers of this nation, in case they set not the land free to the poor oppressed people. Published by authority; and presented to the view of all nations in the world.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88070</idno><idno type="EEBO-CITATION">99865128</idno>
+  <idno type="VID">166043</idno>
+  <idno type="EEBO-PROQUEST">2240915800</idno>
+  
+            <idno type="STC">Wing L1804</idno>
+            <idno type="STC">Thomason E652_12</idno>
+            <idno type="STC">ESTC R205896</idno>
+            <idno type="PROQUEST">99865128</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865128e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88070)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166043)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E652[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Levellers remonstrance, sent in a letter to his excellency the Lord Gen: Cromwel: concerning the government of this commonwealth, his wearing of the crown of honour, and preservation of the lawes, liberties, and priviledges thereof. Together with their propositions and desires, in the name of all the commoners of England; and a strange prophesie, fore-telling the great and wonderfull things that will befall the rulers of this nation, in case they set not the land free to the poor oppressed people. Published by authority; and presented to the view of all nations in the world.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Febr. 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Levellers --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166043:1"/>
+            <p>The Levellers REMONSTRANCE, SENT IN A LETTER TO HIS EXCELLENCY THE Lord Gen: Cromwel: CONCERNING The Government of this Commonwealth, his wearing of the Crown of Honour, and pre<g ref="char:EOLhyphen"/>servation of the Lawes, Liberties, and Pri<g ref="char:EOLhyphen"/>viledges thereof. Together with their Propositions and De<g ref="char:EOLhyphen"/>sires, in the Name of all the Commoners of <hi>England;</hi> And a strange <hi>Prophesie,</hi> fore-telling the great and wonderfull things that will befall the Rulers of this Nation, in case they set not the Land free to the poor Oppressed People.</p>
+            <p>PƲblished by Authority; And presented to the view of all Nations in the <hi>World.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Horton,</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:166043:2"/>
+            <pb n="3" facs="tcp:166043:2"/>
+            <head>A DECLARATION OF THE LEVELLERS TO His Excellency the Lord Generall CROMWELL.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>GOD hath honored you with the highest Honor of any man since Moses time, to be the Head of a people, who have cast out an Oppressing Pharaoh: for when the Norman Power had conquer'd our Forefathers, he took the free use of our English ground from them, and made them his servants. And God hath made you a successful Instrument to cast out that
+<pb n="4" facs="tcp:166043:3"/> Conqueror, and to recover our Land and Liberties again, by your Victories, out of that Norman hand. That which is yet wanting on your part to be done, is this, To see the Oppressors power to be cast out with his person; and to see that the free possession of the Land and Liberties be put into the hands of the Oppressed Commoners of England. For the Crown of Honour cannot be yours; neither can those Victo<g ref="char:EOLhyphen"/>ries be called Victories on your part, till the Land &amp; Freedoms won be possessed by them who adventu<g ref="char:EOLhyphen"/>red person and purse for them. Now you know Sir, that the Kingly Conqueror was not beaten by you onely as you are a single man, nor by the Officers of the Army joyned to you; but by the hand and as<g ref="char:EOLhyphen"/>sistance of the Commoners, whereof some came in person, and adventur'd their lives with you; others staid at home, and planted the Earth, and paid Taxes and Free-quarter to maintain you that went to war. So that whatsoever is recovered from the Conquer<g ref="char:EOLhyphen"/>or, is recovered by a joynt consent of the Commo<g ref="char:EOLhyphen"/>ners: therefore it is all Equity, That all the Com<g ref="char:EOLhyphen"/>moners who assisted you, should be set free from the Conquerors power with you. And now you have the power of the Land in your hand, you must do one of these things: First, either set the Land free to the Oppressed Commoners, who assisted you, and paid the Army their wages; and then you will fulfil
+<pb n="5" facs="tcp:166043:3"/> the Scriptures and own Engagements, and so take possession of your deserved Honor. Or second<g ref="char:EOLhyphen"/>ly, you must only remove the Conquerours power out of the Kingly hand into other mens, maintaining the old Laws still: And then your Wisdom and ho<g ref="char:EOLhyphen"/>nour is blasted for ever; and you will either lose your self, or lay the foundation of greater slavery to posterity then you ever knew. You have the eyes of the people all the Land over, nay I think I may say all neighboring Nations over, waiting to see what you will do: And the eyes of your oppressed friends, who lie yet under Kingly power, are waiting to have the possession given them of that Freedom in the Land, which was promised by you, if in case you prevailed. Lose not your Crown, take it up, &amp; wear it. But know, that it is no Crown of Honor, till Pro<g ref="char:EOLhyphen"/>mises and Engagements, made by you, be perform<g ref="char:EOLhyphen"/>ed to your friends. And it is our desire, That the Common-wealths Land, which is the ancient Com<g ref="char:EOLhyphen"/>mons and waste Land, and the Lands newly got in, by the Armies Victories, out of the Oppressors hands, as Parks, Forests, Chases, and the like, may be set free to all that have lent assistance, either of per<g ref="char:EOLhyphen"/>son or purse, to obtain it; and to all that are willing to come in to the practice of this Government, and be obedient to the Laws thereof.</p>
+            <pb n="6" facs="tcp:166043:4"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="appeal">
+                        <head>The Freemans Appeal.</head>
+                        <p>As for my own part I am a free-man; yea, a free Denizen of England; and I have been in the field with my sword in my hand, to adventure my life and my bloud (against Tyrants) for the preserva<g ref="char:EOLhyphen"/>tion of my just freedom; and I do not know that ever I did an act in all my life, that disfranchised me of my freedom; and by vertue of my being a free<g ref="char:EOLhyphen"/>man (I conceive) I have as true a right to all the pri<g ref="char:EOLhyphen"/>viledges that do belong to a freeman as the greatest man in England whatsoever he be; and the ground and foundation of my freedome I build upon the grand Charter of England, which is published and expressed in the 9 of HEN. 3. Chap. 29. which I humbly crave leave to illustrate as followeth, viz. That no freeman shall be taken or imprisoned; or be diseised of his free-hold or liberties; or free Cu<g ref="char:EOLhyphen"/>stoms; or be out-lawed or exiled; or any wise de<g ref="char:EOLhyphen"/>stroyed: Nor we will not passe upon him, nor con<g ref="char:EOLhyphen"/>demn him; but by lawful Judgment of his Peers; or by the Law of the Land; we will sell to no man; we will not deny; or defer to any man either Ju<g ref="char:EOLhyphen"/>stice or Right. And the priviledges contained here<g ref="char:EOLhyphen"/>in are my birth-right and inheritance; which privi<g ref="char:EOLhyphen"/>ledges
+<pb n="7" facs="tcp:166043:4"/> have been ratified and confirmed to the free people of England by the Parliament assembled at Westmidster; and many Declarations put out a<g ref="char:EOLhyphen"/>gainst the late King for violating of them.</p>
+                        <p>And truly, I cannot chuse but remind you, That the Law of England is the birth-right and inheri<g ref="char:EOLhyphen"/>tance of the people of England; yea of the meanest as well as of the richest: And although the Law of England be not so good in every particular, e<g ref="char:EOLhyphen"/>specially in the administrative part of it, as I could wish it were; yet till I can see a better, I (for my part) will make much of that which we have, as the principal Earthly preserver and safeguard of my life, liberty and property for it, viz. Magna Charta Chap. 29. saith, No free-man shall be taken or im<g ref="char:EOLhyphen"/>prisoned, or be disseifed of his freehold or free Cu<g ref="char:EOLhyphen"/>stomes, or be outlawed or exiled, or any otherwise destroyed; nor past upon, nor condemned, but by lawful Judgment of his Peers; or by the Law of the Land; and that Justice and Right shall not be sold denied, or deferred to any man. See Sir Edw. Cook's excellent Exposition upon this in his 2. par. Instit. fol. 46, 47. &amp;c. Printed by the late forcibly dissolved Parliament for good Law. And positively declared, To preserve unto the people inviolably their fun<g ref="char:EOLhyphen"/>damental Laws and Liberties, in reference to their Lives, Estates, and all things appertaining thereunto.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="8" facs="tcp:166043:5"/>
+            <p>As for the Common-wealths Government, it is the Restorer of ancient Peace, and long lost Free<g ref="char:EOLhyphen"/>doms (if it be right in power, as well as in name) and so becomes the joy of all Nations, and the blessing of the whole Earth. Therefore all you, who professe Religion and spiritual things, now look to it, and see what spirit you do professe, for you profession is brought to tryal. If once Commonwealths Oovern<g ref="char:EOLhyphen"/>ment be set upon the Throne, then no Tyranny or Oppression can look him in the face and live.</p>
+            <p>O ENGLAND, ENGLAND, wouldst thou have thy Government sound and healthful? then cast about, and see, and search diligently to find out all those burthens that came in by Kings, and re<g ref="char:EOLhyphen"/>move them; and then will thy Government arise from under the clods, under which as yet it is bury<g ref="char:EOLhyphen"/>ed, and covered with deformity.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
